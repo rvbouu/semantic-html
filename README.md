@@ -8,4 +8,4 @@ This Refactoring Semantic HTML assignment gives bootcamp students a previously m
 ![The following is a screenshot of the webpage after editing the source code and stylesheet.](./assets/images/semantic-screenshot.png)
 
 ## Deployed Application
-[Click here]() to view the deployed version.
+[Click here](https://rvbouu.github.io/semantic-html/) to view the deployed version.
