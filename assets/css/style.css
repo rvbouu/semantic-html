@@ -58,6 +58,7 @@ li {
     margin-left: 25px;
 }
 
+/* takes away hyperlink default styling */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -83,6 +84,7 @@ p {
     margin-left: 20px;
 }
 
+/* main section styling */
 .main-section {
     margin-bottom: 20px;
     padding: 50px;
@@ -101,6 +103,7 @@ p {
     font-size: 36px;
 }
 
+/* side section styling */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -128,6 +131,7 @@ h3 {
     max-width: 150px;
 }
 
+/* footer styling */
 .footer {
     padding: 30px;
     clear: both;
