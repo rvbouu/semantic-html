@@ -1,9 +1,11 @@
+/* style applied to entire html */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* picture banner that also acts as a divider */
 .hero {
     height: 800px;
     width: 100%;
@@ -13,10 +15,12 @@
     background-position: center;
 }
 
+/* color of entire body */
 body {
     background-color: #d9dcd6;
 }
 
+/* header styling */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,15 +28,18 @@ body {
     color: #ffffff;
 }
 
+
 h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* changes the color of part of the title */
 .seo {
     color: #d9dcd6;
 }
 
+/* navigation bar styling */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -41,6 +48,7 @@ nav {
     font-size: 20px;
 }
 
+/* removes bullet points from list */
 ul {
     list-style-type: none;
 }
